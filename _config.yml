@@ -1,0 +1,6 @@
+title: Dr. Rishikesh Nalawade
+description: Associate Professor | Operations & Supply Chain Management | Researcher
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
